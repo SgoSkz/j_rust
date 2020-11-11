@@ -1,5 +1,10 @@
-# Testing
-[X] Testing
+# JAAT
+[J]ust  
+[A]nother  
+[A]nime  
+[T]hing  
+
+## Goals
 - [ ] EventListeners
     - [ ] Single or Multi Async
         - [ ] Async Single-Thread
