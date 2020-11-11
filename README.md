@@ -34,6 +34,7 @@
         - [ ]
             - [ ] Bypass captcha's
             - [ ] Or always attempt to render with JS
+    - [ ] Cookies 🍪
 - [ ] Ueberzug
     - [ ] Display Images in Terminal
     - [ ] Display Videos in Terminal???
